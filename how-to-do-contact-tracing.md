@@ -1,4 +1,4 @@
-# How to do it
+# How to do contact tracing
 
 To effectively execute contact tracing for COVID-19, most governments will need to support:
 
@@ -141,9 +141,7 @@ For contact tracing to be effective, every diagnosed case must be investigated, 
     </tr>
   </thead>
   <tbody></tbody>
-</table>The [Massachusetts Department of Public Health, in partnership with Partners in Health](https://www.mass.gov/doc/community-tracing-collaborative-overview-presentation/download), has [shared its plans for scaling](https://www.mass.gov/doc/community-tracing-collaborative-overview-presentation/download) and training its contact tracing workforce.
-
-![](.gitbook/assets/0.png)
+</table>![](.gitbook/assets/0.png)
 
 ## Laboratory testing
 
@@ -250,9 +248,7 @@ Governments can use predefined performance targets to determine the efficacy of 
     </tr>
   </thead>
   <tbody></tbody>
-</table>Contact tracing requires and produces a lot of data, particularly given current all-remote shelter-in-place workforce, making efficient data management crucial to any program’s success.
-
-\[Flow chart of data here\]
+</table>\[Flow chart of data here\]
 
 ### Principles of data management
 
@@ -372,11 +368,7 @@ Most government organizations already have contact tracing infrastructure and te
     </tr>
   </thead>
   <tbody></tbody>
-</table>|  | Get in touch with the positive patient and find to inform them of their diagnosis, connect them to care, and interview them about their contacts \(this is not always done by the same person or at the same time\) |  |  |
-| :--- | :--- | :--- | :--- |
-
-
-|  | Interview the positive patient about their contacts \(that they might have exposed or might have exposed them\), and prioritize based on likelihood of transmission |  |  |
+</table>|  | Interview the positive patient about their contacts \(that they might have exposed or might have exposed them\), and prioritize based on likelihood of transmission |  |  |
 | :--- | :--- | :--- | :--- |
 
 
