@@ -6,6 +6,8 @@ Most federal, state, and local public health departments already implement conta
 
 {% page-ref page="../about/have-questions-get-in-touch-with-usdr.md" %}
 
+
+
 ## Three core steps
 
 1. Contact the confirmed case \(“Case identification”\)
