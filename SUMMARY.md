@@ -2,6 +2,7 @@
 
 * [Contact Tracing Playbook](README.md)
 * [What is contact tracing](what/README.md)
+  * [Three core steps](what/three-core-steps.md)
   * [Who is responsible](what/who-is-responsible.md)
   * [Things to consider](what/things-to-consider.md)
 * [Existing COVID-19 contact tracing programs](existing-solutions/README.md)
