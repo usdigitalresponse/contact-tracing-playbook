@@ -2,14 +2,6 @@
 
 To effectively execute contact tracing for COVID-19, most governments will need to support:
 
-* Workforce expansion
-* Laboratory testing
-* Isolation and quarantine
-* Monitoring and evaluation
-* Data management
-* Technology enablement
-* Defining roles
-
 {% page-ref page="workforce-expansion.md" %}
 
 {% page-ref page="laboratory-testing.md" %}
