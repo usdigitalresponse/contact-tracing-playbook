@@ -1,7 +1,3 @@
----
-description: Dense urban areas are developing their own programs
----
-
 # City / County
 
 **San Francisco**
@@ -15,8 +11,4 @@ The New York City Fund for Public Health is [currently hiring more than 1,000 co
 **St. Louis**
 
 Saint Louis County Department of Public Health is [hiring 100 contact tracers](https://www.governmentjobs.com/careers/stlouis/jobs/2770060/contact-tracer?page=1&pagetype=jobOpportunitiesJobs).
-
-{% page-ref page="../how-to-do-contact-tracing/" %}
-
-{% page-ref page="../about/have-questions-get-in-touch-with-usdr.md" %}
 
