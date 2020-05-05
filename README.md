@@ -12,9 +12,9 @@ This is a **live document** and will be changing as we learn more. Feel free to 
 
 This playbook was written in collaboration with:
 
-* [Resolve to Save Lives](https://resolvetosavelives.org/)
+
+
 * Geometer
-* [Vital Strategies](https://www.vitalstrategies.org/)
 * [U.S. Digital Response](http://usdigitalresponse.org)
 * [Lots of volunteers](about/authors.md)
 
