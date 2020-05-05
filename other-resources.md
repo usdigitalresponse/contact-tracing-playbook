@@ -8,3 +8,5 @@
 * [Resolve to Save Lives](https://resolvetosavelives.org/)
 * [Massachusetts Community Tracing Collaborative proposal](https://www.mass.gov/doc/community-tracing-collaborative-overview-presentation/download) 
 
+{% page-ref page="about/have-questions-get-in-touch-with-usdr.md" %}
+
