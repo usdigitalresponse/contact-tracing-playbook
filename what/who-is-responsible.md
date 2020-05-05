@@ -4,5 +4,5 @@ In many cases, local departments of health will implement contact tracing in par
 
 Government partners may want to outline how responsibilities will be distributed, considering, for example, whether workflows like contact tracer staffing or data management should occur at the state or local level. They should also establish whether partners can selectively or entirely “opt-out” of portions of any program while still receiving services and/or funding.
 
-We recommend states charter task forces to review these options before stepping down stay-at-home orders. Key stakeholders include local and state public health, technology, data interoperability, and legal officials.
+We recommend states charter task forces to review these options before stepping down stay-at-home orders. Key stakeholders to include are local and state public health officials, technology directors, data interoperability managers, and legal officials.
 
