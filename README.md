@@ -1,7 +1,5 @@
 ---
-description: >-
-  Resources, frameworks, and templates to help you scale contact tracing in your
-  community
+description: Resources to help you scale contact tracing in your community
 ---
 
 # Contact Tracing Playbook
