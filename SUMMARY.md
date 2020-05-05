@@ -20,5 +20,6 @@
   * [Technology enablement](how-to-do-contact-tracing/technology-enablement.md)
   * [Defining roles](how-to-do-contact-tracing/defining-roles.md)
 * [About USDR](about/README.md)
+  * [Authors](about/authors.md)
   * [Have questions? Get in touch with USDR](about/have-questions-get-in-touch-with-usdr.md)
 
