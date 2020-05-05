@@ -8,5 +8,7 @@ However, the unprecedented scale and speed with which COVID-19 is impacting comm
 
 We learn more about contact tracing for COVID-19 every day. This playbook collects what various government, policy, and public health communities have shared far about scaling contact tracing programs. We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. Note that high-risk communities \(e.g., correctional, healthcare, or long-term care\) may require additional support beyond the scope of this playbook.
 
-Have questions? We’re here to help: [CONTACT@USDIGITALRESPONSE.ORG](mailto:CONTACT@USDIGITALRESPONSE.ORG)
+{% page-ref page="about/have-questions-get-in-touch-with-usdr.md" %}
+
+
 
