@@ -1,3 +1,7 @@
+---
+description: 'Under construction :)'
+---
+
 # Things to consider
 
 * Figure out your policy strategy around persons of interest definition, i.e. lab testing, confirmatory testing, CDC guidelines or your own case definitions, symptom checkers
