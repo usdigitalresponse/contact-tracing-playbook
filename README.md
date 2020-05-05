@@ -12,9 +12,6 @@ This is a **live document** and will be changing as we learn more. Feel free to 
 
 This playbook was written in collaboration with:
 
-
-
-* Geometer
 * [U.S. Digital Response](http://usdigitalresponse.org)
 * [Lots of volunteers](about/authors.md)
 
