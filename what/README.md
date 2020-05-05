@@ -34,19 +34,9 @@ Summary of findings, pros and cons and limitations at this point
 
 \[Good link: [https://www.cdc.gov/coronavirus/2019-ncov/downloads/digital-contact-tracing.pdf](https://www.cdc.gov/coronavirus/2019-ncov/downloads/digital-contact-tracing.pdf)\]
 
-## Who is responsible
+{% page-ref page="who-is-responsible.md" %}
 
-In many cases, local departments of health will implement contact tracing in partnership with state budget and infrastructure. Especially large or dense urban centers, however, as well as local jurisdictions with unique circumstances, may execute contact tracing independently of--but in communication with--state funding. To remain capable of responding quickly to this crisis, The National Association of County and City Health Officials [encourages proposals to remain flexible regarding how funding and resources are allocated between jurisdictions](https://www.naccho.org/uploads/full-width-images/Contact-Tracing-Statement-4-16-2020.pdf).
 
-Government partners may want to outline how responsibilities will be distributed, considering, for example, whether workflows like contact tracer staffing or data management should occur at the state or local level. They should also establish whether partners can selectively or entirely “opt-out” of portions of any program while still receiving services and/or funding.
 
-We recommend that states charter task forces to review these options before stepping down stay-at-home orders. Key stakeholders include local and state public health, technology, data interoperability, and legal officials.
-
-## Things to consider
-
-* Figure out your policy strategy around persons of interest definition, i.e. lab testing, confirmatory testing, CDC guidelines or your own case definitions, symptom checkers
-* Pin down your authoritative sources of case reports
-* Identify your existing data systems and sources for persons of interest; syndromic surveillance, health system case reports, community organization case reports
-* Pin down additional contact tracing criteria that aren’t tied to persons of interest at the population and geographic level, i.e. known and emerging hotspots, vulnerable and at-risk populations
-* Survey
+## 
 

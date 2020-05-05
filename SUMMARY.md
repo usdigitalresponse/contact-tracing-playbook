@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Why contact tracing](README.md)
-* [What is contact tracing](what.md)
+* [What is contact tracing](what/README.md)
+  * [Who is responsible](what/who-is-responsible.md)
+  * [Things to consider](what/things-to-consider.md)
 * [Existing COVID-19 contact tracing programs](existing-solutions/README.md)
   * [Federal](existing-solutions/federal.md)
   * [States](existing-solutions/states.md)
