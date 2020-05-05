@@ -8,7 +8,7 @@ description: >-
 
 We learn more about contact tracing for COVID-19 every day. This playbook collects what various government, policy, and public health communities have shared about scaling contact tracing programs. We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. Note that high-risk communities \(e.g., correctional, healthcare, or long-term care\) may require additional support beyond the scope of this playbook.
 
-This playbook was written in collaboration with:
+This playbook was written in collaboration with
 
 * [Resolve to Save Lives](https://resolvetosavelives.org/)
 * Geometer
