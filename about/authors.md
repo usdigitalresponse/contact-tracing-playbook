@@ -1,10 +1,18 @@
 # Authors
 
-Many people contributed to this document. Here are a few
+Many people contributed to this document. Here are a few:
 
-* Jess Ladd
-* Annie Steele
-* Harper Reed \([harper@modest.com](mailto:harper@modest.com)\)
-* Tiffany Aike Ho
-* Eric Schallock
+* Annie Steele \(annie.steele@gmail.com\) 
+* Eric Schallock 
+* Harper Reed \(harper@modest.com\) 
+* Isabel Ostrer 
+* Jasmine Phua 
+* Jess Ladd 
+* Matt Kelly 
+* Paul Schreiber 
+* Randall Thomas 
+* Sasha Targ 
+* Tiffany Aike 
+* Waldo Jaquith 
+* Yun-Fang Juan
 

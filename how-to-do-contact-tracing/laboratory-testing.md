@@ -22,7 +22,5 @@ Serology testing for COVID-19 to identify past infection and presumed immunity i
 
 {% page-ref page="isolation-and-quarantine.md" %}
 
-{% page-ref page="../about/have-questions-get-in-touch-with-usdr.md" %}
-
 
 
