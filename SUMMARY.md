@@ -20,7 +20,7 @@
     * [Legal & data sharing frameworks](how-to-do-contact-tracing/data-management-systems/legal-and-data-sharing-frameworks.md)
     * [Negotiating data rights with vendors](how-to-do-contact-tracing/data-management-systems/negotiating-data-rights-with-vendors.md)
   * [Technology enablement](how-to-do-contact-tracing/technology-enablement.md)
-* [Review of vendors](review-of-vendors.md)
+  * [Review of vendors](how-to-do-contact-tracing/review-of-vendors.md)
 * [Other resources](other-resources.md)
 * [About USDR](about/README.md)
   * [Authors](about/authors.md)

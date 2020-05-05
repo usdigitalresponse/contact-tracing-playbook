@@ -1,4 +1,4 @@
-# Data management systems
+# Data management
 
 ## Principles of data management
 

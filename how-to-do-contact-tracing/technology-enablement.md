@@ -1,3 +1,7 @@
+---
+description: 'Under construction! :)'
+---
+
 # Technology enablement
 
 Technology cannot remove the need for scaled-up workforces to execute contact tracing. However, technology will enable contact tracing workforces to effectively address the unprecedented scale, speed, and accuracy demanded by the COVID-19 crisis. Cloud-based technology tools can accelerate key functions including:
