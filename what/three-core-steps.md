@@ -25,7 +25,3 @@ description: The basics of contact monitoring for COVID-19
 2. Ensure continued quarantine of contact for 14 days since last contact to the confirmed case.
 3. Provide contact with recommendation/referral for clinical evaluation and appropriate testing if symptoms develop. If test results are positive, the person would require full case investigation in order to elicit their contacts.
 
-{% page-ref page="who-is-responsible.md" %}
-
-{% page-ref page="../about/have-questions-get-in-touch-with-usdr.md" %}
-

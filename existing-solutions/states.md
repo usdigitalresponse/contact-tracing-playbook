@@ -1,7 +1,3 @@
----
-description: States are beginning to scale their own programs
----
-
 # States
 
 **Massachusetts**
@@ -32,8 +28,4 @@ North Carolina launched its own Community Tracing Collaborative and is hiring 50
 **Michigan**
 
 Michigan announced a plan to hire 3.5k volunteers for contact tracing as part of [a state-wide effort](http://michigan.gov/fightcovid19), and has since trained over 2k, but has since slowed efforts after it increased scrutiny around its contracts related to the effort.
-
-{% page-ref page="city-county.md" %}
-
-{% page-ref page="../about/have-questions-get-in-touch-with-usdr.md" %}
 

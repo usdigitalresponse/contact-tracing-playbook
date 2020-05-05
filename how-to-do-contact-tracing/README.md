@@ -16,20 +16,6 @@ description: What you'll need to consider as you get started
 
 {% page-ref page="technology-enablement.md" %}
 
-In the coming sections we review strategies organizations can use to quickly increase capacity in each of these areas.
-
-## 
-
-## 
-
-## 
-
-## 
-
-## How to fulfill and scale each roles and functions -- human and tech enablement
-
-## 
-
 ## Review of Vendors - Pros and Cons
 
 ## FAQs
