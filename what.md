@@ -1,4 +1,4 @@
-# H1. What is contact tracing
+# What is contact tracing
 
 Contact tracing involves [identifying people who may have come into contact \("contacts"\) with an infected person \(“case”\) and then subsequent monitoring of said contacts’ health](https://en.wikipedia.org/wiki/Contact_tracing). We outline below how the three core steps of contact tracing can be used to contain COVID-19 outbreaks.
 

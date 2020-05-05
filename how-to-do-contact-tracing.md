@@ -1,4 +1,4 @@
-# H1. How to do it
+# How to do it
 
 To effectively execute contact tracing for COVID-19, most governments will need to support:
 

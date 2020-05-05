@@ -1,4 +1,4 @@
-# H1. Why contact tracing
+# Why contact tracing
 
 In the battle against COVID-19, [contact tracing is one of five essential and interdependent public health strategies](https://www.newyorker.com/science/medical-dispatch/its-not-too-late-to-go-on-offense-against-the-coronavirus), along with social distancing, testing, isolation & quarantine, and treatment, that will enable us to safely reopen our societies while continuing to flatten the curve.
 
