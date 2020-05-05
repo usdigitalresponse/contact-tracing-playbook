@@ -1,4 +1,4 @@
-## H1. Why contact tracing
+# H1. Why contact tracing
 
 In the battle against COVID-19, [contact tracing is one of five essential and interdependent public health strategies](https://www.newyorker.com/science/medical-dispatch/its-not-too-late-to-go-on-offense-against-the-coronavirus), along with social distancing, testing, isolation & quarantine, and treatment, that will enable us to safely reopen our societies while continuing to flatten the curve.
 
@@ -9,3 +9,4 @@ However, the unprecedented scale and speed with which COVID-19 is impacting comm
 We learn more about contact tracing for COVID-19 every day. This playbook collects what various government, policy, and public health communities have shared far about scaling contact tracing programs. We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. Note that high-risk communities \(e.g., correctional, healthcare, or long-term care\) may require additional support beyond the scope of this playbook.
 
 Have questions? We’re here to help: [CONTACT@USDIGITALRESPONSE.ORG](mailto:CONTACT@USDIGITALRESPONSE.ORG)
+

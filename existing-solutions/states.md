@@ -1,8 +1,4 @@
-## H1. Existing COVID-19 contact tracing programs
-
-Governments can learn from the COVID-19 contact tracing programs being scaled by other state and local governments.
-
-#### State
+# States
 
 **Massachusetts**
 
@@ -33,20 +29,3 @@ North Carolina launched its own Community Tracing Collaborative and is hiring 50
 
 Michigan announced a plan to hire 3.5k volunteers for contact tracing as part of [a state-wide effort](http://michigan.gov/fightcovid19), and has since trained over 2k, but has since slowed efforts after it increased scrutiny around its contracts related to the effort.
 
-#### Local
-
-**San Francisco**
-
-San Francisco’s city-county Health Department has formed a task force in partnership with University of California, San Francisco \(UCSF\) to support its 883,305 residents. The SF Department of Public Health envisions a team of 150 medical students, city librarians, city attorneys.
-
-**New York City**
-
-The New York City Fund for Public Health is [currently hiring more than 1,000 contact tracers](https://1w20ju1nsz1k2xqrjx3ccsd1-wpengine.netdna-ssl.com/wp-content/uploads/sites/76/2020/04/CT-I.pdf), paying $57k with benefits.
-
-**St. Louis**
-
-Saint Louis County Department of Public Health is [hiring 100 contact tracers](https://www.governmentjobs.com/careers/stlouis/jobs/2770060/contact-tracer?page=1&pagetype=jobOpportunitiesJobs).
-
-#### Federal
-
-In [a letter to congress](https://apps.npr.org/documents/document.html?id=6877567-Bipartisan-Public-Health-Leaders-Letter-on) on 5/27/2020, bipartisan health experts recommended congress spend $12b to hire 180,000 federal contract tracing workers over next 18 months. The Center for Disease Control has 500 staff to help state & local health departments and will allocate 650 more positions to do so.

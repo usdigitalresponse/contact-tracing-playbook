@@ -1,9 +1,4 @@
-
-
-
-
-
-## H1. How to do it
+# H1. How to do it
 
 To effectively execute contact tracing for COVID-19, most governments will need to support:
 
@@ -17,11 +12,11 @@ To effectively execute contact tracing for COVID-19, most governments will need 
 
 In the coming sections we review strategies organizations can use to quickly increase capacity in each of these areas.
 
-### Workforce Expansion
+## Workforce Expansion
 
 While contact tracing is routinely performed to control STDs, TB, and other communicable diseases, local health departments have limited front-line workforce \(e.g., epidemiologists, disease intervention staff, public health nurses\) to support contact tracing at the scale and pace of COVID-19. The [CDC provides resources](https://www.cdc.gov/coronavirus/2019-ncov/php/open-america/staffing.html) for training and supplementing existing staff for ongoing and surge support.
 
-#### Population-based estimates
+### Population-based estimates
 
 For contact tracing to be effective, every diagnosed case must be investigated, which means the contact tracing workforce must be capable of responding quickly even during surges. [Find the number of staff you’ll need](https://preventepidemics.org/coronavirus/resources/contact-tracing-staffing-calculator/) using this calculator provided by public health organization [Resolve to Save Lives](https://resolvetosavelives.org/), and review additional estimates below.
 
@@ -31,172 +26,179 @@ For contact tracing to be effective, every diagnosed case must be investigated, 
 | Johns Hopkins/Association of State and Territorial Health Officers | 30 |
 | Resolve to Save Lives | 100 |
 
-#### Roles needed
+### Roles needed
+
+| **Role** | **Who can fill** | **Description** |
+| :--- | :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Role</b>
+      <th style="text-align:left"><b>Contact tracers</b>
       </th>
-      <th style="text-align:left"><b>Who can fill</b>
-      </th>
-      <th style="text-align:left"><b>Description</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>Contact tracers</b>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <ul>
           <li>Local lay people trained and supervised by disease intervention specialists</li>
           <li>Volunteers from academic public health community</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <p>Communicate with contacts to gather data and inform about quarantine procedures.</p>
         <p>May work remotely during shelter-in-place (e.g., one-on-one phone interviews
           or text-based messaging services) or in-person.</p>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left"><b>Case investigators</b>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left"><b>Case investigators</b>
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Community health workers</li>
           <li>Disease intervention specialists</li>
           <li>Nurses</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <p>Interview confirmed or suspected COVID-19 cases.</p>
         <p>Interview newly diagnosed cases to determine period of infectiousness,
           elicit contacts, and identify clinical and other resource needs.</p>
         <p>Delegate appropriate administrative work to contact tracers (e.g., finding
           contact information, reviewing isolation and quarantine recommendations
           and resources)</p>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left"><b>Care resource manager</b>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left"><b>Care resource manager</b>
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Social workers</li>
           <li>Case managers</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <p>Arrange wrap-around services (e.g., food, medication delivery) for cases
           and contacts in isolation or quarantine.</p>
         <p>Provide incentives, food, or referral to programs that provide financial
           assistance.</p>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left"><b>Clinical consultant</b>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left"><b>Clinical consultant</b>
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Nurses</li>
           <li>Nurse practitioners</li>
           <li>Physicians</li>
         </ul>
-      </td>
-      <td style="text-align:left">Provides clinical support to case investigators or contact tracers if
-        cases/contacts become symptomatic or require referral to the hospital.</td>
+      </th>
+      <th style="text-align:left">Provides clinical support to case investigators or contact tracers if
+        cases/contacts become symptomatic or require referral to the hospital.</th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left"><b>Data analyst</b>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left"><b>Data analyst</b>
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Local lay people trained and supervised by disease intervention specialists</li>
           <li>Volunteers from academic public health community</li>
         </ul>
-      </td>
-      <td style="text-align:left">Data monitoring and analysis</td>
+      </th>
+      <th style="text-align:left">Data monitoring and analysis</th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left"><b>Data entry technician</b>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left"><b>Data entry technician</b>
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Local lay people trained and supervised by disease intervention specialists</li>
           <li>Volunteers from academic public health community</li>
         </ul>
-      </td>
-      <td style="text-align:left">Careful data entry, review, and correction</td>
+      </th>
+      <th style="text-align:left">Careful data entry, review, and correction</th>
     </tr>
-  </tbody>
-</table>#### Hiring, management, and development
-
-The [Massachusetts Department of Public Health, in partnership with Partners in Health](https://www.mass.gov/doc/community-tracing-collaborative-overview-presentation/download), has [shared its plans for scaling](https://www.mass.gov/doc/community-tracing-collaborative-overview-presentation/download) and training its contact tracing workforce.
+  </thead>
+  <tbody></tbody>
+</table>The [Massachusetts Department of Public Health, in partnership with Partners in Health](https://www.mass.gov/doc/community-tracing-collaborative-overview-presentation/download), has [shared its plans for scaling](https://www.mass.gov/doc/community-tracing-collaborative-overview-presentation/download) and training its contact tracing workforce.
 
 ![](.gitbook/assets/0.png)
 
-### Laboratory testing
+## Laboratory testing
 
 Increasing testing capacity and ensuring rapid turnaround time \(from symptoms, to testing, to test result delivery to both the patient and the health department\) are key to “slowing the spread”.
 
-#### Polymerase Chain Reaction \(PCR\) testing
+### Polymerase Chain Reaction \(PCR\) testing
 
 Polymerase Chain Reaction \(PCR\) testing is [the current gold standard](https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/testing-tests-which-covid19-tests-are-most-accurate) for COVID-19. For contact tracing to be most effective, PCR testing should be widespread and available to all people showing symptoms. The CDC provides [detailed recommendations for testing protocol and best practices](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html).
 
-#### Asymptomatic testing
+### Asymptomatic testing
 
 There is [increasing evidence of transmission from asymptomatic and pre-symptomatic cases](https://www.cdc.gov/mmwr/volumes/69/wr/mm6914e1.htm), and it is likely that a significant proportion of patients would test positive for COVID-19 without symptoms \(e.g., [20% in South Korea; 50% in Iceland](https://www.bloomberg.com/news/articles/2020-03-22/one-third-of-coronavirus-cases-may-show-no-symptom-scmp-reports)\).
 
 Contact tracing will not prevent transmission from untested asymptomatic cases. Because asymptomatic testing accuracy and feasibility rates are still preliminary, even if communities _do_ test asymptomatic contacts, negative results would not change quarantine recommendations. The CDC [provides guidance on testing asymptomatic contacts](https://www.cdc.gov/coronavirus/2019-ncov/php/guidance-evaluating-pui.html) of people diagnosed with COVID-19.
 
-#### Serology testing
+### Serology testing
 
 Serology testing for COVID-19 to identify past infection and presumed immunity is [still being developed](https://www.cdc.gov/coronavirus/2019-ncov/lab/serology-testing.html), and its role and potential use in contact tracing is still unclear. In particular, [sensitivity and specificity of serology tests vary widely](https://www.medrxiv.org/content/10.1101/2020.04.25.20074856v1) and must be further validated before guiding decision-making.
 
-### Isolation and quarantine
+## Isolation and quarantine
 
 Isolation \(the separation of persons with confirmed or suspected contagious disease\) and quarantine \(separation/restriction of movement of persons that have been exposed to a contagious disease\) are critical to stopping COVID-19 transmission.
 
 Enforcing isolation and quarantine requires resources and systems, including strategies for securing location and ensuring food, nutrition, and medication, and financial support. People in isolation and quarantine require continued monitoring in case they require further care or testing.
 
-#### Location
+### Location
 
 Case investigators and contact tracers will assess the most appropriate place for isolation and quarantine--either at home, in a government-secured location \(e.g., hotel\), or in a hospital.
 
-#### Provisions
+### Provisions
 
 Care resource managers ensure access to nutrition and required medications, whether by neighbor, friend, family member, or delivery service.
 
-#### Other needs
+### Other needs
 
 Case investigators? should assess for potential challenges of isolation and quarantine, including loss of income and loss of ability to care for others, that may make compliance difficult. Public health programs such as tuberculosis control programs have provided “incentives and enablers” for this purpose. Examples include covering mortgage or rent payments, providing daycare or elder care, and others. Direct financial compensation for those with lost wages should be considered.
 
-#### Legal authority
+### Legal authority
 
 Health officers have legal authority to order isolation and quarantine. Local programs may vary in their approach. Some issue orders immediately whereas others seek voluntary cooperation without a legal order initially. States may need to provide additional support if local health departments need mass provision, monitoring, or enforcement of legal orders.
 
-### Program evaluation
+## Program evaluation
 
 Governments can use predefined performance targets to determine the efficacy of its contact tracing program. These metrics can be used in tandem with broader metrics tracking cases and mortality rate to consider loosening and tightening social restrictions.
 
-#### Example metrics and targets for contact tracing
+### Example metrics and targets for contact tracing
+
+| **Possible criteria to loosen restrictions** | **Possible criteria to tighten restrictions** | **Other performance metrics** |
+| :--- | :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Possible criteria to loosen restrictions</b>
-      </th>
-      <th style="text-align:left"><b>Possible criteria to tighten restrictions</b>
-      </th>
-      <th style="text-align:left"><b>Other performance metrics</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
+      <th style="text-align:left">
         <ul>
           <li>
             <ul>
@@ -211,8 +213,8 @@ Governments can use predefined performance targets to determine the efficacy of 
             </ul>
           </li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>
             <ul>
@@ -226,8 +228,8 @@ Governments can use predefined performance targets to determine the efficacy of 
             </ul>
           </li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>
             <ul>
@@ -244,22 +246,21 @@ Governments can use predefined performance targets to determine the efficacy of 
             </ul>
           </li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>### Data management
-
-Contact tracing requires and produces a lot of data, particularly given current all-remote shelter-in-place workforce, making efficient data management crucial to any program’s success.
+  </thead>
+  <tbody></tbody>
+</table>Contact tracing requires and produces a lot of data, particularly given current all-remote shelter-in-place workforce, making efficient data management crucial to any program’s success.
 
 \[Flow chart of data here\]
 
-#### Principles of data management
+### Principles of data management
 
 1. Make collected data accessible: The format of a positive laboratory test result for COVID-19, as well as the necessary associated patient information, should be accessible to both clinical and public health entities in either “near real time” or in aggregate as necessary. Ideally patient data is ultimately shared with the patient’s provider.
 2. Import relevant available health data: A system capable of automatically importing relevant prior contact, demographic, and clinical records would substantially reduce the burden on the contact tracing and medical workforce. Regulatory barriers to accessing this information \(e.g., HIPAA Minimum Necessary restriction\) can be overcome with a [statement from the federal HHS Office of Civil Rights](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/minimum-necessary-requirement/index.html) or an assertion from the State.
 3. Make data usable: Investing in the above principles to aggregate and access relevant health information will be wasted if contact tracers and other public health employees aren’t clear on how to access it and then share relevant recommendations with cases and contacts. Ideally, programs have easy-to-use user interfaces for data review and entry, but, alternatively, detailed visual training programs can ensure the workforce is taking advantage of useful data.
 
-#### Negotiating data rights with vendors
+### Negotiating data rights with vendors
 
 Software vendors may attempt to contract their ownership over data in an attempt to lock in customers. Programs must avoid this by specifying in the vendor contract that vendors do not own any data via a “data rights” clause such as:
 
@@ -267,7 +268,7 @@ Software vendors may attempt to contract their ownership over data in an attempt
 
 Programs must also specify in the vendor contract that the vendor agrees to export records in a machine-readable format \(defined as “data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost”\), and the software must likewise be demonstrated to provide such functionality.
 
-### Legal & data sharing frameworks
+## Legal & data sharing frameworks
 
 Summary:
 
@@ -283,11 +284,11 @@ Summary:
 * Patient and Consumer Consents
 * Data destruction policies
 
-#### State & Local Jurisdiction Data Sharing
+### State & Local Jurisdiction Data Sharing
 
 If there is a local NEDSS system in place, provide local jurisdictions with the ability to enter case reports. Establish a process to capture case investigations that relate to emerging contract tracing emergence of symptoms but confirmatory testing may not be in place yet \(typically a quarantine section of the system to help prioritize confirmed case reports\).
 
-#### Data Sharing Use Cases
+### Data Sharing Use Cases
 
 * Symptom checker information into a NEDSS
 * Symptom checker information connected with contact traced social network \(identifiable, and aggregate level\)
@@ -322,9 +323,9 @@ Covers the following:
 
 **Open Data**
 
-### How to fulfill and scale each roles and functions -- human and tech enablement
+## How to fulfill and scale each roles and functions -- human and tech enablement
 
-### Technology enablement
+## Technology enablement
 
 Technology cannot remove the need for scaled-up workforces to execute contact tracing. However, technology will enable contact tracing workforces to effectively address the unprecedented scale, speed, and accuracy demanded by the COVID-19 crisis. Cloud-based technology tools can accelerate key functions including:
 
@@ -335,125 +336,81 @@ Technology cannot remove the need for scaled-up workforces to execute contact tr
 
 Most government organizations already have contact tracing infrastructure and technology support in place for infectious diseases like HIV or syphilis, but this technology may not be easy to adapt to contact tracing for COVID-19. A good first step is to review your existing workflow and infrastructure and use the following checklist to identify where you might need to invest in new technologies \(versus where your current solution will be sufficient\):
 
+| **Priority** | **Task** | **Requirements** | **Recommended solutions** |
+| :--- | :--- | :--- | :--- |
+
+
+| High | Transfer positive test results from labs to the health department | 24-hour time window | Set up secure electronic integrations between labs and your state, county, and cities |
+| :--- | :--- | :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Priority</b>
-      </th>
-      <th style="text-align:left"><b>Task</b>
-      </th>
-      <th style="text-align:left"><b>Requirements</b>
-      </th>
-      <th style="text-align:left"><b>Recommended solutions</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">High</td>
-      <td style="text-align:left">Transfer positive test results from labs to the health department</td>
-      <td
-      style="text-align:left">24-hour time window</td>
-        <td style="text-align:left">Set up secure electronic integrations between labs and your state, county,
-          and cities</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Low</td>
-      <td style="text-align:left">Minimize data entry errors, clean/correct them when they occur</td>
-      <td
-      style="text-align:left">Ability to flag errors</td>
-        <td style="text-align:left">
+      <th style="text-align:left">Low</th>
+      <th style="text-align:left">Minimize data entry errors, clean/correct them when they occur</th>
+      <th
+      style="text-align:left">Ability to flag errors</th>
+        <th style="text-align:left">
           <p>Electronic lab registration software</p>
           <p>Data auto-correct</p>
-        </td>
+        </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Medium</td>
-      <td style="text-align:left">View/find contact information for the positive case</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Medium</th>
+      <th style="text-align:left">View/find contact information for the positive case</th>
+      <th style="text-align:left">
         <p>Reconcile conflicting test results</p>
         <p>Stack rank cases</p>
         <p>Access management</p>
-      </td>
-      <td style="text-align:left"></td>
+      </th>
+      <th style="text-align:left"></th>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Get in touch with the positive patient and find to inform them of their
-        diagnosis, connect them to care, and interview them about their contacts
-        (this is not always done by the same person or at the same time)</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Interview the positive patient about their contacts (that they might have
-        exposed or might have exposed them), and prioritize based on likelihood
-        of transmission</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Decide which contacts will be notified by the positive patient vs the
-        health department <a href="https://academic.oup.com/cid/article/44/Supplement_3/S160/496779">(&#x201C;provider referral&#x201D; vs &#x201C;patient referral&#x201D;</a>)</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">For contacts that will be notified via patient referral, equip the patient
-        with information and possibly referral cards</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Decide whether to give the patient medication to bring their contacts
-        (&#x201C;expedited partner therapy&#x201D;), and if so provide them with
-        the necessary medication and instructions</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Find contact information for the positive patient&#x2019;s contacts who
-        will be notified by the health department</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Get in touch with the contact and find a time to talk to them</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Inform the contact of their possible exposure, and connect them to testing
-        &amp; care as appropriate</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Sometimes, follow up with contact to see whether they were tested</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Train contact tracers on how to perform contact tracing effectively and
-        ensure the privacy of patients and contacts</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>#### Tech-enabled case identification, management, & prioritization
+  </thead>
+  <tbody></tbody>
+</table>|  | Get in touch with the positive patient and find to inform them of their diagnosis, connect them to care, and interview them about their contacts \(this is not always done by the same person or at the same time\) |  |  |
+| :--- | :--- | :--- | :--- |
+
+
+|  | Interview the positive patient about their contacts \(that they might have exposed or might have exposed them\), and prioritize based on likelihood of transmission |  |  |
+| :--- | :--- | :--- | :--- |
+
+
+|  | Decide which contacts will be notified by the positive patient vs the health department [\(“provider referral” vs “patient referral”](https://academic.oup.com/cid/article/44/Supplement_3/S160/496779)\) |  |  |
+| :--- | :--- | :--- | :--- |
+
+
+|  | For contacts that will be notified via patient referral, equip the patient with information and possibly referral cards |  |  |
+| :--- | :--- | :--- | :--- |
+
+
+|  | Decide whether to give the patient medication to bring their contacts \(“expedited partner therapy”\), and if so provide them with the necessary medication and instructions |  |  |
+| :--- | :--- | :--- | :--- |
+
+
+|  | Find contact information for the positive patient’s contacts who will be notified by the health department |  |  |
+| :--- | :--- | :--- | :--- |
+
+
+|  | Get in touch with the contact and find a time to talk to them |  |  |
+| :--- | :--- | :--- | :--- |
+
+
+|  | Inform the contact of their possible exposure, and connect them to testing & care as appropriate |  |  |
+| :--- | :--- | :--- | :--- |
+
+
+|  | Sometimes, follow up with contact to see whether they were tested |  |  |
+| :--- | :--- | :--- | :--- |
+
+
+|  | Train contact tracers on how to perform contact tracing effectively and ensure the privacy of patients and contacts |  |  |
+| :--- | :--- | :--- | :--- |
+
 
 Your underlying database of positive cases was not built for COVID-19. You might use the state’s system to source new cases, or your county or city might have its own. Test results will come in from hospitals, clinics, private labs, and public labs. These results might come in electronically through an online integration or portal as HL7 feeds, CSVs, or other raw data files. They also might be entered in by hand to the city or state database from someone directly looking up information about the case in the clinic’s EMR \(electronic medical record\) system, by someone who has received a paper copy of the lab, or by a courier who has brought an electronic file to the city, county, or state on a thumb drive, CD-ROM, or floppy drive. Ideally, you would set up secure electronic integrations between labs and your state, county, and cities so that data can be sent instantly and without alteration.
 
@@ -479,7 +436,7 @@ Lastly, your contact tracers need to have access to the database of patients the
 
 If you do separate your systems, you’ll need to figure out how to get data from your department database of cases into any database / technology being used by contact tracers, and identify which of these databases is the “source of truth” on COVID-19 cases. If it’s your department database, you’ll want to develop a process or integration that allows contact tracers to flag things that are “off” about COVID-19 patient information, such as a disconnected phone number or an email that bounces back, and ensure that information can be corrected in both the database that contact tracers are using and the database being used by the department for the tracking and management of COVID-19 cases.
 
-#### Tech-enabled case interviews, contact elicitation, & contact investigation
+### Tech-enabled case interviews, contact elicitation, & contact investigation
 
 Once you have your database of cases, cases need to be informed of their diagnosis and interviewed. Quite a bit needs to happen in order to connect the index case to care, ensure they are less likely to infect others \(e.g. connect them to an isolation hotel if they can’t isolate at home\), and elicit contacts. You’ll need to decide who is in charge of what part of this, and whether the person interviewing a patient about their contacts and possible sources of exposure is also performing other functions such as delivering test results or connecting patients to care. If they are performing these other functions, you’ll want to ensure that any database they use allows them to track these activities appropriately.
 
@@ -499,7 +456,7 @@ Technology can support this by enabling the index case to search through their v
 
 Once some information about a contact is given to an interviewer, they might want to do their own search for methods of contacting them, especially if the methods provided by the index case don’t seem to be working. This is also true for instances where the lab provides incomplete information about the index case themselves. Technology can make it easier to search multiple databases simultaneously to try to find alternate methods for contacting individuals.
 
-#### Tech-enabled contact prioritization & notification
+### Tech-enabled contact prioritization & notification
 
 Once contacts have been elicited, they need to be prioritized for follow-up by contact tracers. In traditional contact tracing, often not every case is notified by the health department, or at least not for all infectious diseases. Often the patient themselves is asked to notify their close contacts as well, and provided with help doing so. This is for several reasons:
 
@@ -530,11 +487,11 @@ In addition to supporting contact prioritization, technology can help with the n
 
 In addition to supporting the sending of a contact notification, technology can help with connecting the contact to testing and / or care. A number of COVID-19 testing location finders exist, such as [Google](https://www.theverge.com/2020/4/17/21225828/google-showing-covid-19-testing-centers-search-results) or [findcovidtesting.com](https://findcovidtesting.com/).
 
-#### Tech-enabled contact follow-up
+### Tech-enabled contact follow-up
 
 Once a contact has been notified, you may want to follow up with them to ensure they have been tested, encourage them to stay isolated for the 14 days after exposure, and learn more about their symptoms. An increasing number of technologies are being developed to support this, such as [CommCare](https://www.dimagi.com/commcare/) or [Sara Alert](https://saraalert.org/).
 
-#### Peer-to-peer contact notification
+### Peer-to-peer contact notification
 
 Technology can enable patients to notifying their own contacts \(if they know their identities\).
 
@@ -542,7 +499,7 @@ Anonymous peer-to-peer mass partner notification systems already exist for STDs 
 
 In addition to helping diagnosed individuals deliver the message, [templates](http://web.archive.org/web/20161222151021/https://www.sotheycanknow.org/inform/text) could make it easier to figure out what to say and [automated suggestions based on timing of test results and symptom onset](http://web.archive.org/web/20160910061632/https://www.sotheycanknow.org/chlamydia#inform_your_partner) could make it easier to decide who to notify. Technology could also enable automated information distribution to contacts about where/whether to get tested, symptom education and monitoring, guidance on isolation/quarantine, and available support and services.
 
-#### Tech-enabled recruiting and training of contact tracers
+### Tech-enabled recruiting and training of contact tracers
 
 As we consider rapidly scaling up the contact tracing workforce, technology can play a vital role in recruiting, selecting, and training contact tracers.
 
@@ -550,26 +507,26 @@ As we consider rapidly scaling up the contact tracing workforce, technology can 
 
 [Making Contact: A Training for COVID-19 Contact Tracers](https://www.ncsddc.org/resource/making-contact-a-training-for-covid-19-contact-tracers/) is an example of how technology can be used to rapidly train entry-level COVID-19 contact tracers.
 
-#### Support people in isolation
+### Support people in isolation
 
-#### Emerging Bluetooth technology solutions
+### Emerging Bluetooth technology solutions
 
-Apple and Google recently announced a partnership to leverage Bluetooth LE technology to support voluntary proximity tracking. This could theoretically automate portions of contact tracing: once a case is diagnosed, apps could notify others who were in proximity to the diagnosed individual during the infectious period.[\[1\]]()
+Apple and Google recently announced a partnership to leverage Bluetooth LE technology to support voluntary proximity tracking. This could theoretically automate portions of contact tracing: once a case is diagnosed, apps could notify others who were in proximity to the diagnosed individual during the infectious period.[\[1\]](how-to-do-contact-tracing.md)
 
 For privacy purposes, this technology relies on a “double opt-in”, meaning that both diagnosed and contacts would have to opt in to be traced or notified.
 
 While this technology has potential, it is in its early stages. Based on our review to date, we do not recommend it be a “load-bearing pillar” of contact tracing work for the following reasons:
 
-* **Insufficient coverage.** Since this approach is voluntary, coverage is limited to those who choose to participate. If only 40% participates \(a liberal estimate given [adoption rates in other countries](https://www.reuters.com/article/us-health-coronavirus-apps/bluetooth-phone-apps-for-tracking-covid-19-show-modest-early-results-idUSKCN2232A0)\), it would still only cover 16% of the population.[\[2\]]() As a result, a manual contact tracing program is still necessary even with relatively broad adoption.
+* **Insufficient coverage.** Since this approach is voluntary, coverage is limited to those who choose to participate. If only 40% participates \(a liberal estimate given [adoption rates in other countries](https://www.reuters.com/article/us-health-coronavirus-apps/bluetooth-phone-apps-for-tracking-covid-19-show-modest-early-results-idUSKCN2232A0)\), it would still only cover 16% of the population.[\[2\]](how-to-do-contact-tracing.md) As a result, a manual contact tracing program is still necessary even with relatively broad adoption.
 * **Biased coverage.** We should anticipate [lower adoption in vulnerable populations due to language barriers, limited technology access, and more](https://www.pewresearch.org/internet/fact-sheet/mobile/). As a result, over-reliance on this approach could disproportionately divert resources from vulnerable populations.
 * **Still under development.** Google and Apple will be launching APIs in May, which will delay the creation of applications. In addition, accurate proximity algorithms are still under development, and issues such as rates of false positives and margins of error are unknown.
 * **Outstanding privacy and security questions.** While Google and Apple are pursuing a privacy-centric approach, ensuring privacy in practice is another matter. Privacy experts have expressed concern that location could potentially be inferred from proximity by, for example, hackers or aggressive nation states.
 
-### Review of Vendors - Pros and Cons
+## Review of Vendors - Pros and Cons
 
-### FAQs
+## FAQs
 
-### Other Resources / Playbooks
+## Other Resources / Playbooks
 
 [CDC](https://www.cdc.gov/coronavirus/2019-ncov/php/open-america/contact-tracing.html)
 
@@ -582,5 +539,4 @@ While this technology has potential, it is in its early stages. Based on our rev
 [NCSD](https://www.ncsddc.org/covid-command-center-std-program-resources/)
 
 Resolve to Save Lives
-
 
