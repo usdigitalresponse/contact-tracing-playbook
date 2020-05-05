@@ -1,3 +1,7 @@
+---
+description: Testing is essential to "slowing the spread"
+---
+
 # Laboratory testing
 
 Increasing testing capacity and ensuring rapid turnaround time \(from symptoms, to testing, to test result delivery to both the patient and the health department\) are key to “slowing the spread”.
@@ -15,4 +19,10 @@ Contact tracing will not prevent transmission from untested asymptomatic cases. 
 ### Serology testing
 
 Serology testing for COVID-19 to identify past infection and presumed immunity is [still being developed](https://www.cdc.gov/coronavirus/2019-ncov/lab/serology-testing.html), and its role and potential use in contact tracing is still unclear. In particular, [sensitivity and specificity of serology tests vary widely](https://www.medrxiv.org/content/10.1101/2020.04.25.20074856v1) and must be further validated before guiding decision-making.
+
+{% page-ref page="isolation-and-quarantine.md" %}
+
+{% page-ref page="../about/have-questions-get-in-touch-with-usdr.md" %}
+
+
 
