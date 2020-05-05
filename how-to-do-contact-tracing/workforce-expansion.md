@@ -1,4 +1,4 @@
-# Workforce Expansion
+# Workforce expansion
 
 While contact tracing is routinely performed to control STDs, TB, and other communicable diseases, local health departments have limited front-line workforce \(e.g., epidemiologists, disease intervention staff, public health nurses\) to support contact tracing at the scale and pace of COVID-19. The [CDC provides resources](https://www.cdc.gov/coronavirus/2019-ncov/php/open-america/staffing.html) for training and supplementing existing staff for ongoing and surge support.
 
