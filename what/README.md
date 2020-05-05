@@ -36,7 +36,3 @@ Summary of findings, pros and cons and limitations at this point
 
 {% page-ref page="who-is-responsible.md" %}
 
-
-
-## 
-

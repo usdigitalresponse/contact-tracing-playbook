@@ -8,5 +8,3 @@ Governments can learn from the COVID-19 contact tracing programs being scaled by
 
 {% page-ref page="city-county.md" %}
 
-
-
