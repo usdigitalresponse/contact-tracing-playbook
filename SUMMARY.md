@@ -4,6 +4,8 @@
 * [What is contact tracing](what/README.md)
   * [Three core steps](what/three-core-steps.md)
   * [Who is responsible](what/who-is-responsible.md)
+  * [Manual vs. digital](what/manual-vs.-digital.md)
+  * [Asymptomatic cases](what/asymptomatic-cases.md)
   * [Things to consider](what/things-to-consider.md)
 * [Existing COVID-19 contact tracing programs](existing-solutions/README.md)
   * [Federal](existing-solutions/federal.md)
