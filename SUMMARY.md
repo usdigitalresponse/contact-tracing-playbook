@@ -17,6 +17,6 @@
     * [Legal & data sharing frameworks](how-to-do-contact-tracing/data-management-systems/legal-and-data-sharing-frameworks.md)
     * [Negotiating data rights with vendors](how-to-do-contact-tracing/data-management-systems/negotiating-data-rights-with-vendors.md)
   * [Technology enablement](how-to-do-contact-tracing/technology-enablement.md)
-  * [Defining Roles](how-to-do-contact-tracing/defining-roles.md)
+  * [Defining roles](how-to-do-contact-tracing/defining-roles.md)
 * [About](about.md)
 
