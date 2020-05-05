@@ -8,6 +8,8 @@ In the battle against COVID-19, contact tracing is [one of five essential and in
 
 While the techniques and strategies for contact tracing are not new, the unprecedented scale and speed with which COVID-19 is impacting communities requires us to implement time-tested contact tracing strategies in new ways, using new tools and technologies. This will require substantial investments in time, resources, and budget, as well as continued collaboration across federal, state, and local health departments.
 
+However, the unprecedented scale and speed with which COVID-19 is impacting communities requires us to implement time-tested contact tracing strategies in new ways, using new tools and technologies. This will require substantial investments in time, resources, and budget, as well as continued collaboration across federal, state, and local health departments.
+
 {% page-ref page="about/have-questions-get-in-touch-with-usdr.md" %}
 
 
