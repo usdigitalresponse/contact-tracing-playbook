@@ -7,7 +7,7 @@
   * [Manual vs. digital](what/manual-vs.-digital.md)
   * [Asymptomatic cases](what/asymptomatic-cases.md)
   * [Things to consider](what/things-to-consider.md)
-* [Existing COVID-19 contact tracing programs](existing-solutions/README.md)
+* [Contact tracing programs](existing-solutions/README.md)
   * [Federal](existing-solutions/federal.md)
   * [States](existing-solutions/states.md)
   * [City / County](existing-solutions/city-county.md)
