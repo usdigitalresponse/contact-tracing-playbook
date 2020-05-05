@@ -1,9 +1,3 @@
----
-description: >-
-  Resources, frameworks, and templates to help you scale contact tracing in your
-  community
----
-
 # Contact Tracing Playbook
 
 We learn more about contact tracing for COVID-19 every day. This playbook collects what various government, policy, and public health communities have shared far about scaling contact tracing programs. We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. Note that high-risk communities \(e.g., correctional, healthcare, or long-term care\) may require additional support beyond the scope of this playbook.
@@ -14,5 +8,9 @@ In the battle against COVID-19, contact tracing is [one of five essential and in
 
 While the techniques and strategies for contact tracing are not new, the unprecedented scale and speed with which COVID-19 is impacting communities requires us to implement time-tested contact tracing strategies in new ways, using new tools and technologies. This will require substantial investments in time, resources, and budget, as well as continued collaboration across federal, state, and local health departments.
 
+However, the unprecedented scale and speed with which COVID-19 is impacting communities requires us to implement time-tested contact tracing strategies in new ways, using new tools and technologies. This will require substantial investments in time, resources, and budget, as well as continued collaboration across federal, state, and local health departments.
+
 {% page-ref page="about/have-questions-get-in-touch-with-usdr.md" %}
+
+
 
