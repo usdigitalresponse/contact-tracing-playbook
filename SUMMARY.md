@@ -7,6 +7,5 @@
   * [States](existing-solutions/states.md)
   * [City / County](existing-solutions/city-county.md)
 * [How to do it](how-to-do-contact-tracing.md)
-* [untitled](untitled.md)
 * [About](about.md)
 
