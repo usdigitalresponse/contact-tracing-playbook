@@ -10,3 +10,7 @@ Government partners may want to outline how responsibilities will be distributed
 
 We recommend states charter task forces to review these options before stepping down stay-at-home orders. Key stakeholders to include are local and state public health officials, technology directors, data interoperability managers, and legal officials.
 
+{% page-ref page="manual-vs.-digital.md" %}
+
+{% page-ref page="../about/have-questions-get-in-touch-with-usdr.md" %}
+

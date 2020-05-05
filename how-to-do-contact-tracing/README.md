@@ -1,6 +1,8 @@
-# How to do contact tracing
+---
+description: What you'll need to consider as you get started
+---
 
-To effectively execute contact tracing for COVID-19, most governments will need to support:
+# How to do contact tracing
 
 {% page-ref page="workforce-expansion.md" %}
 
@@ -13,8 +15,6 @@ To effectively execute contact tracing for COVID-19, most governments will need 
 {% page-ref page="data-management-systems/" %}
 
 {% page-ref page="technology-enablement.md" %}
-
-{% page-ref page="defining-roles.md" %}
 
 In the coming sections we review strategies organizations can use to quickly increase capacity in each of these areas.
 
