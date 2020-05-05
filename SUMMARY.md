@@ -18,5 +18,6 @@
     * [Negotiating data rights with vendors](how-to-do-contact-tracing/data-management-systems/negotiating-data-rights-with-vendors.md)
   * [Technology enablement](how-to-do-contact-tracing/technology-enablement.md)
   * [Defining roles](how-to-do-contact-tracing/defining-roles.md)
-* [About](about.md)
+* [About](about/README.md)
+  * [Have questions? Get in touch with USDR](about/have-questions-get-in-touch-with-usdr.md)
 

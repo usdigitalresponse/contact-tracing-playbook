@@ -4,7 +4,9 @@ Contact tracing involves [identifying people who may have come into contact \("c
 
 Most federal, state, and local public health departments already implement contact tracing for other communicable diseases, meaning your jurisdiction likely already has dedicated infrastructure and budget. Elsewhere in this playbook we’ll address how to think about workforce expansion and building on existing infrastructure.
 
-Have questions? We’re here to help: CONTACT@USDIGITALRESPONSE.ORG
+{% page-ref page="../about/have-questions-get-in-touch-with-usdr.md" %}
+
+
 
 ## Three core steps
 
