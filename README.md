@@ -8,10 +8,6 @@ Contact tracing is a core public health function, and the techniques and strateg
 
 However, the unprecedented scale and speed with which COVID-19 is impacting communities requires us to implement time-tested contact tracing strategies in new ways, using new tools and technologies. This will require substantial investments in time, resources, and budget, as well as continued collaboration across federal, state, and local health departments.
 
-
-
-
-
 {% page-ref page="about/have-questions-get-in-touch-with-usdr.md" %}
 
 
