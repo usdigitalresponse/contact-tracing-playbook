@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Contact tracing](README.md)
+* [Contact Tracing Playbook](README.md)
 * [What is contact tracing](what/README.md)
   * [Who is responsible](what/who-is-responsible.md)
   * [Things to consider](what/things-to-consider.md)
