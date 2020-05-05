@@ -6,7 +6,7 @@ description: >-
 
 # Contact Tracing Playbook
 
-We learn more about contact tracing for COVID-19 every day. This playbook collects what various government, policy, and public health communities have shared far about scaling contact tracing programs. We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. Note that high-risk communities \(e.g., correctional, healthcare, or long-term care\) may require additional support beyond the scope of this playbook.
+We learn more about contact tracing for COVID-19 every day. This playbook collects what various government, policy, and public health communities have shared about scaling contact tracing programs. We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. Note that high-risk communities \(e.g., correctional, healthcare, or long-term care\) may require additional support beyond the scope of this playbook.
 
 This playbook was written in collaboration with
 
@@ -14,7 +14,7 @@ This playbook was written in collaboration with
 * Geometer
 * [Vital Strategies](https://www.vitalstrategies.org/)
 * [U.S. Digital Response](http://usdigitalresponse.org)
-* [Lot's of volunteers](about/authors.md)
+* [Lots of volunteers](about/authors.md)
 
 Contact tracing is a core public health function, and the techniques and strategies for contact tracing are not new. The US government’s [Center for Disease Control \(CDC\)](https://www.cdc.gov/) and the broader public health community [have long depended on contact tracing to](https://www.cdc.gov/eis/field-epi-manual/index.html) [help control highly communicable diseases](https://www.cdc.gov/eis/field-epi-manual/index.html) like HIV/AIDS, tuberculosis, and syphilis.
 
