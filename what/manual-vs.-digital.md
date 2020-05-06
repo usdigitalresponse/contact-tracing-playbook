@@ -49,11 +49,8 @@ A false negative occurs when an app fails to register a transmission. These happ
 
 * An infected person transmitted the virus without being in close contact \(e.g., by touching the same surface\). 
 * Transmission occurred via someone who didn't have the app.
-
-#### 
-
 * Bluetooth must always be on, your phone must always be in your pocket, and powered on.
-* * For both exposure notifications and manual contact tracing ubiquitous, cheap, fast, and accurate testing is critical. Otherwise, false positives and quarantines will be significantly higher than needed. For exposure notifications, this means decreasing public trust and lower adoption.
+* For both exposure notifications and manual contact tracing ubiquitous, cheap, fast, and accurate testing is critical. Otherwise, false positives and quarantines will be significantly higher than needed. For exposure notifications, this means decreasing public trust and lower adoption.
 
 ## Summary
 
