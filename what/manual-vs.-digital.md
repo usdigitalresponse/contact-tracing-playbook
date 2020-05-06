@@ -13,8 +13,8 @@ Because most applications so far only notify contacts--without collecting inform
 ## Advantages of exposure notification
 
 * Immediate, once automated
-* Based on objective distancing data
-* Doesn't require a human workforce, making it cheaper and safer
+* Based on objective distancing/Bluetooth data
+* Removes notification burden from human workforce, empowering staff to focus on neediest cases
 
 ## Challenges of exposure notification
 
@@ -27,6 +27,10 @@ Here are the principles that are critical for apps or settings to achieve adopti
 * **Data privacy.** People are understandably wary of sharing private health and location data with corporations and the government. To address this, solutions should implement solutions like [contact event numbers and decentralized local storage](https://tcn-coalition.org/). This [unified set of data and privacy guidelines for contact tracing and exposure notification](https://contacttracingrights.org/) was created to educate developers and inform end-users of the data rights they should expect any effective solution to respect.
 * **Interoperability.** Apps should be capable and willing to share data formats to enable data to be aggregated for broader public health use. Apple and Google allow one app per jurisdiction \(state, city, or county\) to deploy exposure notifications APIs, meaning there could be dozens of apps available. No single app is likely to reach 60%+ adoption, but all apps working together have a much better chance. Developers should use openly published protocols and work collaboratively to ensure their solutions are verifiable and interoperable. 
 * **Trustworthy.** Brand matters. If an app is nefarious or perceived as such, it could create broad public distrust and lowering likelihood that _any_ exposure notification technology gets adopted.
+
+#### Unlikely to improve conditions in the neediest areas and populations
+
+Digital contact tracing solutions are built by and for smartphone users. However, given that COVID-19 disproportionately affects the elderly and underprivileged, the impact these apps can have will be limited. For example, [19% of the US doesn’t have a smartphone](https://www.pewresearch.org/internet/fact-sheet/mobile/). [Rural areas have 71% smartphone adoption](https://www.pewresearch.org/internet/fact-sheet/mobile/) and [53% of those over the ages of 65 have a smartphone](https://www.pewresearch.org/internet/fact-sheet/mobile/). 
 
 #### False positives
 
@@ -46,20 +50,14 @@ A false negative occurs when an app fails to register a transmission. These happ
 * An infected person transmitted the virus without being in close contact \(e.g., by touching the same surface\). 
 * Transmission occurred via someone who didn't have the app.
 
-### Other challenges
+#### 
 
 * Bluetooth must always be on, your phone must always be in your pocket, and powered on.
-* [19% of the US doesn’t have a smartphone](https://www.pewresearch.org/internet/fact-sheet/mobile/). [Rural areas have 71% smartphone adoption](https://www.pewresearch.org/internet/fact-sheet/mobile/) and [53% of those over the ages of 65 have a smartphone](https://www.pewresearch.org/internet/fact-sheet/mobile/), meaning over half of them won’t be able to be notified of a potential exposure or notify close contacts if they’re infected
-* For both exposure notifications and manual contact tracing ubiquitous, cheap, fast, and accurate testing is critical. Otherwise, false positives and quarantines will be significantly higher than needed. For exposure notifications, this means decreasing public trust and lower adoption.
+* * For both exposure notifications and manual contact tracing ubiquitous, cheap, fast, and accurate testing is critical. Otherwise, false positives and quarantines will be significantly higher than needed. For exposure notifications, this means decreasing public trust and lower adoption.
 
 ## Summary
 
-Given these challenges, exposure notification technology is a fragile, unproven method to inform those exposed. It’s critical that governments aggressively ramp up manual contact tracing as an immediate solution.  
-
-
-\[Good link: [https://www.cdc.gov/coronavirus/2019-ncov/downloads/digital-contact-tracing.pdf](https://www.cdc.gov/coronavirus/2019-ncov/downloads/digital-contact-tracing.pdf)\]
+In the long-term, digital contact tracing and exposure notification have the potential to streamline the contact tracing workflow, enabling the workforce to focus more on providing support to individuals in need. That said, given the challenges described above, there is no effective digital replacement for a manual contact tracing workforce. Governments should continue to aggressively ramp up manual contact tracing as an immediate solution.
 
 {% page-ref page="asymptomatic-cases.md" %}
-
-
 
