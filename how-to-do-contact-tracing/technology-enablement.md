@@ -11,79 +11,33 @@ Technology cannot remove the need for scaled-up workforces to execute contact tr
 * Alerts
 * Call center and triage
 
-Most government organizations already have contact tracing infrastructure and technology support in place for infectious diseases like HIV or syphilis, but this technology may not be easy to adapt to contact tracing for COVID-19. A good first step is to review your existing workflow and infrastructure and use the following checklist to identify where you might need to invest in new technologies \(versus where your current solution will be sufficient\):
-
-| **Priority** | **Task** | **Requirements** | **Recommended solutions** |
-| :--- | :--- | :--- | :--- |
+Contact tracing is not a concept that began with COVID-19. Your state, county, or city probably already has a process for it, some of which involves technology. Understanding the state of your pre-existing flow and infrastructure for contact tracing for infectious diseases like HIV or syphilis is a good first step for making decisions about how technology can support contact tracing for COVID-19.  
 
 
-| High | Transfer positive test results from labs to the health department | 24-hour time window | Set up secure electronic integrations between labs and your state, county, and cities |
-| :--- | :--- | :--- | :--- |
+Chances are, your underlying technology infrastructure has not been heavily invested in. It probably involves a great deal of manual data entry, manual importing and exporting of files between systems, paper records, software that doesn’t have the right data structure, and one or two people in the IT department or at an external vendor who understand the software or can make changes to it. Your team has found a way to make it work, and come up with their own creative ways to work within the constraints they have been given. Your contact tracing-related databases, if you have electronic databases, can probably only be accessed on old Windows machines in-person at the health department by health department personnel.  
 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Low</th>
-      <th style="text-align:left">Minimize data entry errors, clean/correct them when they occur</th>
-      <th
-      style="text-align:left">Ability to flag errors</th>
-        <th style="text-align:left">
-          <p>Electronic lab registration software</p>
-          <p>Data auto-correct</p>
-        </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Medium</th>
-      <th style="text-align:left">View/find contact information for the positive case</th>
-      <th style="text-align:left">
-        <p>Reconcile conflicting test results</p>
-        <p>Stack rank cases</p>
-        <p>Access management</p>
-      </th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>|  | Interview the positive patient about their contacts \(that they might have exposed or might have exposed them\), and prioritize based on likelihood of transmission |  |  |
-| :--- | :--- | :--- | :--- |
+Your underlying technology and processes for STD or tuberculosis contact tracing already have found a way to:
 
+* Get information about positive test results from labs to the health department
+* Clean or correct the information from labs when there is an error
+* View or find contact information for the positive case
+* Get in touch with the positive patient and find to inform them of their diagnosis, connect them to care, and interview them about their contacts \(this is not always done by the same person or at the same time\)
+* Interview the positive patient about their contacts \(that they might have exposed or might have exposed them\), and prioritize based on likelihood of transmission
+* Decide which contacts will be notified by the positive patient vs the health department \([“provider referral” vs “patient referral”](https://academic.oup.com/cid/article/44/Supplement_3/S160/496779)\)
+* For contacts that will be notified via patient referral, equip the patient with information and possibly referral cards
+* Decide whether to give the patient medication to bring their contacts \(“expedited partner therapy”\), and if so provide them with the necessary medication and instructions
+* Find contact information for the positive patient’s contacts who will be notified by the health department
+* Get in touch with the contact and find a time to talk to them
+* Inform the contact of their possible exposure, and connect them to testing & care as appropriate
+* Sometimes, follow up with contact to see whether they were tested
+* Train contact tracers on how to perform contact tracing effectively and ensure the privacy of patients and contacts
 
-|  | Decide which contacts will be notified by the positive patient vs the health department [\(“provider referral” vs “patient referral”](https://academic.oup.com/cid/article/44/Supplement_3/S160/496779)\) |  |  |
-| :--- | :--- | :--- | :--- |
+Technology can play a role in all of these steps, and might already be used by your health department to supplement manual efforts. Chances are though that your underlying technology and processes are not meant to work rapidly for a new disease, much less at the speed and scale needed for comprehensive COVID-19 contact tracing.
 
+### **Tech-enabled case identification, management, & prioritization**
 
-|  | For contacts that will be notified via patient referral, equip the patient with information and possibly referral cards |  |  |
-| :--- | :--- | :--- | :--- |
-
-
-|  | Decide whether to give the patient medication to bring their contacts \(“expedited partner therapy”\), and if so provide them with the necessary medication and instructions |  |  |
-| :--- | :--- | :--- | :--- |
-
-
-|  | Find contact information for the positive patient’s contacts who will be notified by the health department |  |  |
-| :--- | :--- | :--- | :--- |
-
-
-|  | Get in touch with the contact and find a time to talk to them |  |  |
-| :--- | :--- | :--- | :--- |
-
-
-|  | Inform the contact of their possible exposure, and connect them to testing & care as appropriate |  |  |
-| :--- | :--- | :--- | :--- |
-
-
-|  | Sometimes, follow up with contact to see whether they were tested |  |  |
-| :--- | :--- | :--- | :--- |
-
-
-|  | Train contact tracers on how to perform contact tracing effectively and ensure the privacy of patients and contacts |  |  |
-| :--- | :--- | :--- | :--- |
-
+Technology can play a vital role in getting data about cases from labs to the health department. As there become more and more locations that offer COVID-19 testing, this issue of ensuring the quality, speed, and scalability of this process is essential to any contact tracing efforts. Every day of delay between when a patient was symptomatic or tested and when they are interviewed by contact tracers dramatically lessons the impact contact tracing will have.
 
 Your underlying database of positive cases was not built for COVID-19. You might use the state’s system to source new cases, or your county or city might have its own. Test results will come in from hospitals, clinics, private labs, and public labs. These results might come in electronically through an online integration or portal as HL7 feeds, CSVs, or other raw data files. They also might be entered in by hand to the city or state database from someone directly looking up information about the case in the clinic’s EMR \(electronic medical record\) system, by someone who has received a paper copy of the lab, or by a courier who has brought an electronic file to the city, county, or state on a thumb drive, CD-ROM, or floppy drive. Ideally, you would set up secure electronic integrations between labs and your state, county, and cities so that data can be sent instantly and without alteration.
 
