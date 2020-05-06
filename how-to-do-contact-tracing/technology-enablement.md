@@ -11,11 +11,9 @@ Technology cannot remove the need for scaled-up workforces to execute contact tr
 * Alerts
 * Call center and triage
 
-Contact tracing is not a concept that began with COVID-19. Your state, county, or city probably already has a process for it, some of which involves technology. Understanding the state of your pre-existing flow and infrastructure for contact tracing for infectious diseases like HIV or syphilis is a good first step for making decisions about how technology can support contact tracing for COVID-19.  
+Contact tracing is not a concept that began with COVID-19. Your state, county, or city probably already has a process for it, some of which involves technology. Understanding the state of your pre-existing flow and infrastructure for contact tracing for infectious diseases like HIV or syphilis is a good first step for making decisions about how technology can support contact tracing for COVID-19.
 
-
-Chances are, your underlying technology infrastructure has not been heavily invested in. It probably involves a great deal of manual data entry, manual importing and exporting of files between systems, paper records, software that doesn’t have the right data structure, and one or two people in the IT department or at an external vendor who understand the software or can make changes to it. Your team has found a way to make it work, and come up with their own creative ways to work within the constraints they have been given. Your contact tracing-related databases, if you have electronic databases, can probably only be accessed on old Windows machines in-person at the health department by health department personnel.  
-
+Chances are, your underlying technology infrastructure has not been heavily invested in. It probably involves a great deal of manual data entry, manual importing and exporting of files between systems, paper records, software that doesn’t have the right data structure, and one or two people in the IT department or at an external vendor who understand the software or can make changes to it. Your team has found a way to make it work, and come up with their own creative ways to work within the constraints they have been given. Your contact tracing-related databases, if you have electronic databases, can probably only be accessed on old Windows machines in-person at the health department by health department personnel.
 
 Your underlying technology and processes for STD or tuberculosis contact tracing already have found a way to:
 
