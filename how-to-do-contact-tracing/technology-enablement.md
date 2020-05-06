@@ -134,8 +134,6 @@ As we consider rapidly scaling up the contact tracing workforce, technology can 
 
 [Making Contact: A Training for COVID-19 Contact Tracers](https://www.ncsddc.org/resource/making-contact-a-training-for-covid-19-contact-tracers/) is an example of how technology can be used to rapidly train entry-level COVID-19 contact tracers.
 
-### Support people in isolation
-
 ### Emerging Bluetooth technology solutions
 
 Apple and Google recently announced a partnership to leverage Bluetooth LE technology to support voluntary proximity tracking. This could theoretically automate portions of contact tracing: once a case is diagnosed, apps could notify others who were in proximity to the diagnosed individual during the infectious period.[\[1\]](./)
