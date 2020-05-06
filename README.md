@@ -21,10 +21,11 @@ While the techniques and strategies for contact tracing are not new, COVID-19's 
 
 {% page-ref page="what/" %}
 
-{% page-ref page="about/have-questions-get-in-touch-with-usdr.md" %}
 
 {% hint style="success" %}
 Have questions? Get in touch with USDR
+{% page-ref page="about/have-questions-get-in-touch-with-usdr.md" %}
+
 {% endhint %}
 
 
