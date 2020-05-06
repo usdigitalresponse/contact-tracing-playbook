@@ -4,6 +4,8 @@ description: The basics of contact monitoring for COVID-19
 
 # Three core steps
 
+![CDC training algorithm for Ebola contact tracing](../.gitbook/assets/training_algorithm.jpg)
+
 ### 1. Contact the confirmed case \(“Case identification”\)
 
 1. Interview the confirmed case \(i.e., person diagnosed with COVID-19\), likely by one-on-one telephone interview, and determine symptoms, date of exposure, infectious period, and high-risk conditions.
