@@ -7,7 +7,7 @@ Many people contributed to this document. Here are a few:
 * Harper Reed \(harper@modest.com\) 
 * Isabel Ostrer 
 * Jasmine Phua 
-* Jess Ladd 
+* Jess Ladd \(jessicahladd@gmail.com\)
 * Matt Kelly 
 * Paul Schreiber 
 * Randall Thomas 
