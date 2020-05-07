@@ -4,7 +4,9 @@ description: Resources to help you scale contact tracing in your community
 
 # Contact Tracing Playbook
 
-We learn more about contact tracing for COVID-19 every day. This playbook collects what various government, policy, and public health communities have shared about scaling contact tracing programs. We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. We will indicate when we have guidance for high-risk communities \(e.g., correctional, healthcare, or long-term care\), but it is likely they will require additional support beyond the scope of this playbook.
+We learn more about contact tracing for COVID-19 every day. This playbook distills contact tracing guidance and resources from the Center for Disease Control \(CDC\) and World Health Organization \(WHO\), as well as from governments like Massachusetts, New York, and North Dakota, who have already begun their contact tracing efforts.
+
+We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. While we include guidance for high-risk communities \(e.g., correctional, healthcare, or long-term care\) when we're aware of it, not all guidance shared here may be appropriate for those populations, and it is likely support for those groups will beyond additional investment beyond what we recommend here.
 
 This is a **live document** and will be changing as we learn more. Feel free to submit pull requests or edit on github.
 
@@ -17,7 +19,7 @@ Contact tracing is a core public health function, and the techniques and strateg
 
 In the battle against COVID-19, contact tracing is [one of five essential and interdependent public health strategies](https://www.newyorker.com/science/medical-dispatch/its-not-too-late-to-go-on-offense-against-the-coronavirus) \(along with social distancing, testing, isolation & quarantine, and treatment\) that will enable us to safely reopen society while continuing to flatten the curve.
 
-While the techniques and strategies for contact tracing are not new, COVID-19's unprecedented scale and speed require we implement time-tested contact tracing strategies in new ways, using new tools and technologies. This will require substantial investments in time, resources, and budget, as well as continued collaboration across federal, state, and local health departments.
+While the techniques and strategies for contact tracing are not new, COVID-19's unprecedented scale and speed require we implement time-tested contact tracing strategies in new ways, using new tools and technologies. This will require substantial investments in time, resources, and budget, as well as continued collaboration across federal, state, local, tribal, and territorial health departments.
 
 {% page-ref page="what/" %}
 
