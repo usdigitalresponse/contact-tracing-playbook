@@ -4,7 +4,7 @@ description: Resources to help you scale contact tracing in your community
 
 # Contact Tracing Playbook
 
-We learn more about contact tracing for COVID-19 every day. This playbook collects what various government, policy, and public health communities have shared about scaling contact tracing programs. We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. Note that high-risk communities \(e.g., correctional, healthcare, or long-term care\) may require additional support beyond the scope of this playbook.
+We learn more about contact tracing for COVID-19 every day. This playbook collects what various government, policy, and public health communities have shared about scaling contact tracing programs. We link to resources, frameworks, and templates to help you consider how to implement basic contact tracing in your community. We will indicate when we have guidance for high-risk communities \(e.g., correctional, healthcare, or long-term care\), but it is likely they will require additional support beyond the scope of this playbook.
 
 This is a **live document** and will be changing as we learn more. Feel free to submit pull requests or edit on github.
 
