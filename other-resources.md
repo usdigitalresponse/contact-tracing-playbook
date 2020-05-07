@@ -6,7 +6,8 @@
 * [NCSD \* ASTHO](https://www.ncsddc.org/resource/making-contact-a-training-for-covid-19-contact-tracers/)
 * [NCSD](https://www.ncsddc.org/covid-command-center-std-program-resources/)
 * [Resolve to Save Lives](https://resolvetosavelives.org/)
-* [Massachusetts Community Tracing Collaborative proposal](https://www.mass.gov/doc/community-tracing-collaborative-overview-presentation/download) 
+* [Massachusetts Community Tracing Collaborative proposal](https://www.mass.gov/doc/community-tracing-collaborative-overview-presentation/download)
+* [Guidance for long-term care facilities](https://docs.google.com/spreadsheets/d/12QMHyEweIlJRSfB0JpG8T-g-5nVTIhOtoauaeh18WIs/edit?ts=5eaf09cb#gid=0) 
 
 {% page-ref page="about/have-questions-get-in-touch-with-usdr.md" %}
 
