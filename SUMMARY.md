@@ -23,6 +23,7 @@
   * [Review of vendors](how-to-do-contact-tracing/review-of-vendors.md)
 * [Other resources](other-resources.md)
 * [Glossary](glossary.md)
+* [Other Playbooks](playbooks.md)
 * [About USDR](about/README.md)
   * [Authors](about/authors.md)
   * [Have questions? Get in touch with USDR](about/have-questions-get-in-touch-with-usdr.md)
