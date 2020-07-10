@@ -63,7 +63,9 @@ Governments can use predefined performance targets to determine the efficacy of 
     </tr>
   </thead>
   <tbody></tbody>
-</table>\[Flow chart of data here\]
+</table>
+
+\[Flow chart of data here\]
 
 ### 
 

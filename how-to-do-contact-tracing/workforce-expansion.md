@@ -41,7 +41,9 @@ For contact tracing to be effective, every diagnosed case must be investigated, 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left"><b>Case investigators</b>
@@ -64,7 +66,9 @@ For contact tracing to be effective, every diagnosed case must be investigated, 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left"><b>Care resource manager</b>
@@ -84,7 +88,9 @@ For contact tracing to be effective, every diagnosed case must be investigated, 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left"><b>Clinical consultant</b>
@@ -101,7 +107,9 @@ For contact tracing to be effective, every diagnosed case must be investigated, 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left"><b>Data analyst</b>
@@ -116,7 +124,9 @@ For contact tracing to be effective, every diagnosed case must be investigated, 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left"><b>Data entry technician</b>
@@ -131,7 +141,9 @@ For contact tracing to be effective, every diagnosed case must be investigated, 
     </tr>
   </thead>
   <tbody></tbody>
-</table>![](../.gitbook/assets/0.png)
+</table>
+
+![](../.gitbook/assets/0.png)
 
 ## 
 
