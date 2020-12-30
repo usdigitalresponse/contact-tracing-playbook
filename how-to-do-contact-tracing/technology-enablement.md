@@ -118,7 +118,7 @@ Once a contact has been notified, you may want to follow up with them to ensure 
 
 ### Peer-to-peer contact notification
 
-Technology can enable patients to notifying their own contacts \(if they know their identities\).
+Technology can enable patients to notify their own contacts \(if they know their identities\).
 
 Anonymous peer-to-peer mass partner notification systems already exist for STDs \(e.g., [Tell Your Partner](https://tellyourpartner.org/), [Let Them Know](https://letthemknow.org.au/)\), and are beginning to be adapted to support COVID-19 peer-to-peer notification \(e.g., [Tell Your Contacts](https://tellyourcontacts.org/)\).
 
