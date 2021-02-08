@@ -33,7 +33,7 @@ Your underlying technology and processes for STD or tuberculosis contact tracing
 
 Technology can play a role in all of these steps, and might already be used by your health department to supplement manual efforts. Chances are though that your underlying technology and processes are not meant to work rapidly for a new disease, much less at the speed and scale needed for comprehensive COVID-19 contact tracing.
 
-### **Tech-enabled case identification, management, & prioritization**
+## **Tech-enabled case identification, management, & prioritization**
 
 Technology can play a vital role in getting data about cases from labs to the health department. As there become more and more locations that offer COVID-19 testing, this issue of ensuring the quality, speed, and scalability of this process is essential to any contact tracing efforts. Every day of delay between when a patient was symptomatic or tested and when they are interviewed by contact tracers dramatically lessons the impact contact tracing will have.
 
@@ -61,7 +61,7 @@ Lastly, your contact tracers need to have access to the database of patients the
 
 If you do separate your systems, you’ll need to figure out how to get data from your department database of cases into any database / technology being used by contact tracers, and identify which of these databases is the “source of truth” on COVID-19 cases. If it’s your department database, you’ll want to develop a process or integration that allows contact tracers to flag things that are “off” about COVID-19 patient information, such as a disconnected phone number or an email that bounces back, and ensure that information can be corrected in both the database that contact tracers are using and the database being used by the department for the tracking and management of COVID-19 cases.
 
-### Tech-enabled case interviews, contact elicitation, & contact investigation
+## Tech-enabled case interviews, contact elicitation, & contact investigation
 
 Once you have your database of cases, cases need to be informed of their diagnosis and interviewed. Quite a bit needs to happen in order to connect the index case to care, ensure they are less likely to infect others \(e.g. connect them to an isolation hotel if they can’t isolate at home\), and elicit contacts. You’ll need to decide who is in charge of what part of this, and whether the person interviewing a patient about their contacts and possible sources of exposure is also performing other functions such as delivering test results or connecting patients to care. If they are performing these other functions, you’ll want to ensure that any database they use allows them to track these activities appropriately.
 
@@ -81,7 +81,7 @@ Technology can support this by enabling the index case to search through their v
 
 Once some information about a contact is given to an interviewer, they might want to do their own search for methods of contacting them, especially if the methods provided by the index case don’t seem to be working. This is also true for instances where the lab provides incomplete information about the index case themselves. Technology can make it easier to search multiple databases simultaneously to try to find alternate methods for contacting individuals.
 
-### Tech-enabled contact prioritization & notification
+## Tech-enabled contact prioritization & notification
 
 Once contacts have been elicited, they need to be prioritized for follow-up by contact tracers. In traditional contact tracing, often not every case is notified by the health department, or at least not for all infectious diseases. Often the patient themselves is asked to notify their close contacts as well, and provided with help doing so. This is for several reasons:
 
@@ -112,11 +112,11 @@ In addition to supporting contact prioritization, technology can help with the n
 
 In addition to supporting the sending of a contact notification, technology can help with connecting the contact to testing and / or care. A number of COVID-19 testing location finders exist, such as [Google](https://www.theverge.com/2020/4/17/21225828/google-showing-covid-19-testing-centers-search-results) or [findcovidtesting.com](https://findcovidtesting.com/).
 
-### Tech-enabled contact follow-up
+## Tech-enabled contact follow-up
 
 Once a contact has been notified, you may want to follow up with them to ensure they have been tested, encourage them to stay isolated for the 14 days after exposure, and learn more about their symptoms. An increasing number of technologies are being developed to support this, such as [CommCare](https://www.dimagi.com/commcare/) or [Sara Alert](https://saraalert.org/).
 
-### Peer-to-peer contact notification
+## Peer-to-peer contact notification
 
 Technology can enable patients to notify their own contacts \(if they know their identities\).
 
@@ -124,7 +124,7 @@ Anonymous peer-to-peer mass partner notification systems already exist for STDs 
 
 In addition to helping diagnosed individuals deliver the message, [templates](http://web.archive.org/web/20161222151021/https://www.sotheycanknow.org/inform/text) could make it easier to figure out what to say and [automated suggestions based on timing of test results and symptom onset](http://web.archive.org/web/20160910061632/https://www.sotheycanknow.org/chlamydia#inform_your_partner) could make it easier to decide who to notify. Technology could also enable automated information distribution to contacts about where/whether to get tested, symptom education and monitoring, guidance on isolation/quarantine, and available support and services.
 
-### Tech-enabled recruiting and training of contact tracers
+## Tech-enabled recruiting and training of contact tracers
 
 As we consider rapidly scaling up the contact tracing workforce, technology can play a vital role in recruiting, selecting, and training contact tracers.
 
@@ -132,7 +132,7 @@ As we consider rapidly scaling up the contact tracing workforce, technology can 
 
 [Making Contact: A Training for COVID-19 Contact Tracers](https://www.ncsddc.org/resource/making-contact-a-training-for-covid-19-contact-tracers/) is an example of how technology can be used to rapidly train entry-level COVID-19 contact tracers.
 
-### Emerging Bluetooth technology solutions
+## Emerging Bluetooth technology solutions
 
 Apple and Google recently announced a partnership to leverage Bluetooth LE technology to support voluntary proximity tracking. This could theoretically automate portions of contact tracing: once a case is diagnosed, apps could notify others who were in proximity to the diagnosed individual during the infectious period.[\[1\]](./)
 
